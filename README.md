@@ -14,3 +14,5 @@ My role involved training algorithms to recognize patterns in musical compositio
 Through this, I contributed to enhancing the application's ability to process and interpret user-submitted music effectively.
 
 
+VIDEO LINK:
+https://youtu.be/TUcfjR0_XxE
