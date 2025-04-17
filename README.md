@@ -16,3 +16,6 @@ Through this, I contributed to enhancing the application's ability to process an
 
 VIDEO LINK:
 https://youtu.be/TUcfjR0_XxE
+
+DEPLOYED LINK:
+https://thriving-crostata-093d7a.netlify.app/
